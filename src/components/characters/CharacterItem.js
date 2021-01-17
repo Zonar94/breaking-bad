@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CharacterItem = ({ item }) => {
+const CharacterItem = ({ item }) => {   //structure for the cards 
   return (
     <div className='card'>
       <div className='card-inner'>
